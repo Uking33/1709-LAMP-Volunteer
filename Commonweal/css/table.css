@@ -1,0 +1,86 @@
+.barcon{
+    text-align: center;
+    margin:0 auto;
+	width:100%;
+}
+.barcon>span,.barcon>label{
+	font-size:20px;	
+    color:#8E8E8E;
+}
+.barcon input{
+	width:40px;
+	height:40px;
+    color:#8E8E8E;
+    background:#FFFFFF;
+	border: 1px solid #E5E5E5;
+	outline-color:none;
+    border-radius: 4px;
+    outline:none;
+}
+.barcon input:hover{
+	border: 1px solid #E5E5E5;    	
+	color:#FFFFFF;
+    background:#99cc99;
+	outline-color:none;
+}
+.barcon input:active{
+	border: 1px solid #99cc99;
+}
+
+.tableBar{
+    margin:0 auto;
+}
+.tableBar input{
+	width:100px;
+	height:40px;
+    color:#8E8E8E;
+    background:#FFFFFF;
+	border: 1px solid #E5E5E5;
+	outline-color:none;
+    border-radius: 4px;
+    outline:none;
+}
+.tableBar input:hover{
+	border: 1px solid #E5E5E5;    	
+	color:#FFFFFF;
+    background:#99cc99;
+	outline-color:none;
+}
+.tableBar input:active{
+	border: 1px solid #99cc99;
+}
+.manageTable{
+	width:100%;
+}
+.manageTable>thead{
+	background:#99cc99;
+	color:white;
+}
+.manageTable tbody{	
+    color:#8E8E8E;
+}
+.manageTable tbody>tr>td{
+	text-align: center;
+}
+.manageTable thead>tr>th{
+	text-align: center;
+}    
+.manageTable input{
+	width:70px;
+	height:30px;	
+    color:#8E8E8E;
+    background:#FFFFFF;
+	border: 1px solid #E5E5E5;
+	outline-color:none;
+    border-radius: 4px;
+    outline:none;
+}
+.manageTable input:hover{
+	border: 1px solid #E5E5E5;    	
+	color:#FFFFFF;
+    background:#99cc99;
+	outline-color:none;
+}
+.manageTable input:active{
+	border: 1px solid #99cc99;
+}    
